@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm a Cyber Security Specialist!
 
-<!--
-**moreirapenna2/moreirapenna2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
+I'm passionate about cybersecurity, with a main focus on red teaming, offensive security, and AI testing. My expertise lies in hacking web and mobile applications, but I also enjoy testing network security.
 
-Here are some ideas to get you started:
+## 💻 Skills & Interests
+- **Red Team Operations**
+- **Web & Mobile Application Hacking**
+- **Network Penetration Testing**
+- **AI Testing & Security**
+- **Capture The Flag (CTF) & Hacking Challenges**
+- **Offensive Security Tools Development (Tooling)**
+- **Random Dev Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚩 Community Involvement
+Contributor to [knavesec/CredMaster](https://github.com/knavesec/CredMaster).
+
+## 🎮 Hobbies
+You'll usually find me:
+- Playing CTFs
+- Developing random side projects
+- Gaming
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gustavo-penna-712285173/)
